@@ -8,3 +8,4 @@ android-support-v4.jar
 	Initial  
 	4.3.1 (tag ``lib_4.3.1``)  
 	for Android Studio(tag ``lib_ansta``)  
+	for r13(tag ``lib_r13``)  
